@@ -1,4 +1,4 @@
-# Cognac 🥃 for Sublime
+# Cognac 🥃 for TextMate
 An Alluring, Dark, and Muted Theme For TextMate.
 
 ## About
